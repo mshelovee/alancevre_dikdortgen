@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\dikdörtgen_alan_çevre\dikdörtgen_alan_çevre\bin\Debug\dikdörtgen_alan_çevre.exe.config
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\dikdörtgen_alan_çevre\dikdörtgen_alan_çevre\bin\Debug\dikdörtgen_alan_çevre.exe
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\dikdörtgen_alan_çevre\dikdörtgen_alan_çevre\bin\Debug\dikdörtgen_alan_çevre.pdb
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\dikdörtgen_alan_çevre\dikdörtgen_alan_çevre\obj\Debug\dikdörtgen_alan_çevre.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\dikdörtgen_alan_çevre\dikdörtgen_alan_çevre\obj\Debug\dikdörtgen_alan_çevre.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\dikdörtgen_alan_çevre\dikdörtgen_alan_çevre\obj\Debug\dikdörtgen_alan_çevre.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\dikdörtgen_alan_çevre\dikdörtgen_alan_çevre\obj\Debug\dikdörtgen_alan_çevre.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\dikdörtgen_alan_çevre\dikdörtgen_alan_çevre\obj\Debug\dikdörtgen_alan_çevre.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\dikdörtgen_alan_çevre\dikdörtgen_alan_çevre\obj\Debug\dikdörtgen_alan_çevre.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\dikdörtgen_alan_çevre\dikdörtgen_alan_çevre\obj\Debug\dikdörtgen_alan_çevre.exe
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\dikdörtgen_alan_çevre\dikdörtgen_alan_çevre\obj\Debug\dikdörtgen_alan_çevre.pdb
